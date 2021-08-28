@@ -10,3 +10,13 @@ reduxStore-server
 ----
 
 This backend code is used with no change to the provided Activity 26. 
+
+Installation for local developement  is:
+
+* ```git clone``` this repo
+
+* ```npm install```
+
+* ```npm run seed```
+
+* ```npm run dev```
