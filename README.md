@@ -7,6 +7,20 @@ reduxStore-server
 
 * [Related front end repo](https://github.com/macoovacany/reduxStore-client)
 
+graphql queries can be checked at:
+
+ https://fsf-reduxstore-server.herokuapp.com/graphql
+
+an example query, run in [insomnia](https://insomnia.rest/) or [postman](https://www.postman.com/), is:
+```
+{
+  products
+  {
+    name
+  }
+}
+```
+
 ----
 
 This backend code is used with no change to the provided Activity 26. 
